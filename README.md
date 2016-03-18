@@ -22,6 +22,7 @@ alias bs='browser-sync start --server --files "*.js, *.html, *.css"'
 ``` 
 
 Now you can start browser-sync in the p5.js project folder by typing ‘bs’. Whenever you save a .js, .html, or a .css file, a browser window will open or, when already open, refresh (don’t forget to source the file or to restart your shell in order to make it work).
+
 To turn browser-sync off, you hit Ctrl-c.
 
 ## Vim
