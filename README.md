@@ -14,7 +14,7 @@ $ npm install -g browser-sync
 
 ### Configuration
 
-You can add an alias to your .zshrc (or .bashrc or .bash_profile)
+You can add an alias to your .zshrc (or .bashrc or .bash_profile).
 
 ``` 
 # alias for browser-sync (with p5.js)
