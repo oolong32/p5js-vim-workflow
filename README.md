@@ -27,7 +27,7 @@ To turn browser-sync off, you hit Ctrl-c.
 
 ## Vim
 
-Vim is hard to set-up properly on the command-line. You can try installing it with [homebrew](http://brew.sh) or use [macVim](http://macvim-dev.github.io/macvim/) instead. Or not use it at all.
+Vim is hard to set up properly on the command-line. You can try installing it with [homebrew](http://brew.sh) or use [macVim](http://macvim-dev.github.io/macvim/) instead. Or not use it at all.
 
 ### Syntax-Highlighting
 
