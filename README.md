@@ -35,7 +35,7 @@ I use the [vim-javascript](https://github.com/pangloss/vim-javascript) bundle fo
 
 ## Set up a new p5.js project
 
-In the p5.js editor, I saved an new p5.js project under the name empty. When starting to work on a new p5.js sketch, I make a new instance of this folder. And yes, I am fully aware of the fact that this could be done more elegantly.
+In the p5.js editor, I saved a new project under the name ‘empty’. When starting to work on a new p5.js sketch, I make a new instance of this folder. And yes, I am fully aware of the fact that this could be done more elegantly.
 
 ```
 ~/p5js/ $ cp -r empty new_p5js_project
