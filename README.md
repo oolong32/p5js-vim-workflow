@@ -53,4 +53,6 @@ I therfore moved the *libraries folder* out of the empty project folder I use to
 
 However: browser-sync won’t serve the files in the *libraries folder*. I haven’t found out if it’s possible to configure browser-sync to do it, so as a quick fix I added a symbolic link to the *libraries folder* inside the *empty folder*.
 
+`ln -s ../libraries libraries`
+
 Of course all of this could be simplified by means of shell script etc. Let me know of any possible improvements you can think of.
