@@ -45,4 +45,12 @@ In the p5.js editor, I saved a new project under the name ‘empty’. When star
 
 You need to open a second shell in order to run browser-sync, of course.
 
+## Copying is not very efficient
+
+It’s kind of a waste to copy the *libraries folder* every time you set up a new project. The libraries consume space and get outdated, whenever a new version of p5 gets published.
+
+I therfore moved the *libraries folder* out of the empty project folder I use to set up a new project and adjusted the links in the index.html file.
+
+However: browser-sync won’t serve the files in the *libraries folder*. I haven’t found out if it’s possible to configure browser-sync to do it, so as a quick fix I added a symbolic link to the *libraries folder* inside the *empty folder*.
+
 Of course all of this could be simplified by means of shell script etc. Let me know of any possible improvements you can think of.
